@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes, etc, etc. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your...","categories": ["jekyll","update"],
+        "title": "Production Airflow Server in Five Minutes",
+        "excerpt":"This guide will help you get a production-ready Airflow server up-and-running from scratch in just a few minutes. The only dependency is Packer. “From scratch” means that we will start with nothing more than Packer and the files in this Github repo. It follows the guide published on the Airflow...","categories": ["airflow","devops","packer"],
         "tags": [],
-        "url": "http://localhost:4000/jekyll/update/2021/01/21/welcome-to-jekyll.html",
+        "url": "http://localhost:4000/airflow/devops/packer/2021/01/21/production-airflow-in-five-minutes.html",
         "teaser": null
       }]
